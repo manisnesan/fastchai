@@ -1,4 +1,10 @@
-# nbdev template
+# FastChai
 
-Use this template to more easily create your nbdev project.
+Experiments using fastai
+
+## Computer Vision
+
+### ImageWoof
+- Baseline using fastai defaults with Resnet34
+
 
