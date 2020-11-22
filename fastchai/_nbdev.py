@@ -2,9 +2,10 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"seed_everything": "00_core.ipynb"}
 
-modules = []
+modules = ["core.py",
+           "imagewoof.py"]
 
 doc_url = "https://manisnesan.github.io/fastchai/"
 
