@@ -2,10 +2,17 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"seed_everything": "00_core.ipynb"}
+index = {"seed_everything": "00_core.ipynb",
+         "load_data": "03_hasoc_en.ipynb",
+         "get_dataloaders": "03_hasoc_en.ipynb",
+         "train": "03_hasoc_en.ipynb",
+         "predict": "03_hasoc_en.ipynb",
+         "GDRIVE": "config.ipynb"}
 
 modules = ["core.py",
-           "imagewoof.py"]
+           "imagewoof.py",
+           "hasoc.py",
+           "config.py"]
 
 doc_url = "https://manisnesan.github.io/fastchai/"
 
