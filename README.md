@@ -1,6 +1,13 @@
 # FastChai
 
-Experiments using fastai, transformers
+## Outline
+
+- Computer Vision
+- Natural Language Processing
+- MLOps
+  - ML Monitoring
+
+Experiments using fastai, transformers, evidently for ml-monitoring
 
 ## Computer Vision
 
@@ -26,3 +33,10 @@ Experiments using fastai, transformers
 
 ### IMDB Movie Review Sentiment Classification[en]
 - Another example demonstrating how to use [blurr](https://ohmeow.github.io/blurr) MidLevel API and DistilRoberta for Sequence Classification.
+
+## MLOps
+
+### ML Monitoring
+
+- Data Drift & Model Classification Performance for Iris dataset
+
