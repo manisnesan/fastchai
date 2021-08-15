@@ -1,6 +1,6 @@
 # FastChai
 
-Experiments using fastai
+Experiments using fastai, transformers
 
 ## Computer Vision
 
