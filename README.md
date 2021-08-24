@@ -20,3 +20,6 @@ Experiments using fastai, transformers
 
 ### Diaster Tweet [en]
 - Demonstrates how to use Cleanlab to detect and remove noisy labels and train a classifier using ULMFiT Approach (Accuracy change : 0.79 -> 0.85)
+
+### Jigsaw Toxicity Classification [en]
+- Demonstrates how to use [blurr](https://ohmeow.github.io/blurr), library that integrates HF transformers with fastai. 
