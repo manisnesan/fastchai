@@ -23,3 +23,6 @@ Experiments using fastai, transformers
 
 ### Jigsaw Toxicity Classification [en]
 - Demonstrates how to use [blurr](https://ohmeow.github.io/blurr), library that integrates HF transformers with fastai. 
+
+### IMDB Movie Review Sentiment Classification[en]
+- Another example demonstrating how to use [blurr](https://ohmeow.github.io/blurr) MidLevel API and DistilRoberta for Sequence Classification.
