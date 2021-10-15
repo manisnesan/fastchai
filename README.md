@@ -20,6 +20,9 @@ Experiments using fastai, transformers, evidently for ml-monitoring
 - ranger as an optimizer, a mix of LookAhead and RAdam instead of the default AdamW
 - Native Mixed Precision
 
+### MNIST
+- Resnet from scratch 
+
 ## Natural Language Processing
 
 ### HASOC - Hate Speech and Offensive Content [en]
