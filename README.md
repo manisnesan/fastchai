@@ -4,6 +4,8 @@
 
 - Computer Vision
 - Natural Language Processing
+  - Sequence Classification
+  - Question Answering  
 - MLOps
   - ML Monitoring
 
