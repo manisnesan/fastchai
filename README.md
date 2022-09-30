@@ -25,8 +25,9 @@ Experiments using fastai, transformers, evidently for ml-monitoring
 ### MNIST
 - Resnet from scratch 
 
-### Paddy
+### Paddy - Road to the top series
 - Baseline
+- Small models
 
 ## Natural Language Processing
 
