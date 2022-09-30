@@ -25,6 +25,9 @@ Experiments using fastai, transformers, evidently for ml-monitoring
 ### MNIST
 - Resnet from scratch 
 
+### Paddy
+- Baseline
+
 ## Natural Language Processing
 
 ### HASOC - Hate Speech and Offensive Content [en]
